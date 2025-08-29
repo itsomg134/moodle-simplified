@@ -14,7 +14,7 @@ app.get("/callback", (req, res) => {
   res.json({ message: "Callback endpoint would be here" });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, () => {{
   console.log("Server running on port " + PORT);
   console.log("Test endpoint: http://localhost:" + PORT);
-});
+}});
