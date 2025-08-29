@@ -7,7 +7,7 @@ Includes:-
 🔷Assignment 1: OAuth-based SSO integration via Moodle plugin + Node.js bridge.   
 🔷Assignment 2: UI/UX improvement suggestions with wireframes and analysis.
 
-
+[file struture.txt](https://github.com/user-attachments/files/22051794/file.struture.txt)
 OneVersity/
 |moodle-specifier/     
 ├── bridge/                      # Node.js service........... 🌐     
